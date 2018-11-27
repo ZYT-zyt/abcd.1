@@ -5,3 +5,12 @@ public class myFirstClass{
     private int age;
 }
 ```
+## String
+
+
+
+## Array
+
+
+
+## ArrayList
